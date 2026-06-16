@@ -1,0 +1,6 @@
+{
+  "name": "Apollo AI",
+  "description": "Apollo AI: Intelligence That Gets Things Done. A premium, minimalist, and highly advanced AI dashboard, voice conversationalist, and task manager.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
